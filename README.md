@@ -1,1 +1,1 @@
-# seguridad
+# seguridad_informatica
